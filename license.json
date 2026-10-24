@@ -1,6 +1,6 @@
 ```json
 {
-  "active": true,
+  "active": false,
   "machines": ["9180-81BC-2CEB"]
 }
 ```
